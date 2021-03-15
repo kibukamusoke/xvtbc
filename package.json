@@ -1,0 +1,17 @@
+{
+  "name": "XVTBC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "tsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.14.32",
+    "typescript": "^4.2.3"
+  }
+}
